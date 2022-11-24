@@ -1,0 +1,9 @@
+add, R, 20
+addi, I, 8
+and, R, 24
+andi, I, C
+nor, R, 27
+or, R, 25
+ori, I, D
+slt, R, 2A
+sub, R, 22
